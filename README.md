@@ -55,19 +55,7 @@ This project aims to create a comprehensive HR Analytics dashboard in Power BI, 
 2. **Advanced Analytics**: Implement machine learning algorithms to predict employee attrition risk or identify high-potential employees.
 3. **Customizable Dashboards**: Allow users to create custom dashboards based on their specific needs and interests.
 
-**Acknowledgments**
------------------
-
-This project would not have been possible without the contributions of [list any team members or collaborators]. Special thanks to [list any individuals or organizations] for providing access to the data and resources.
-
 **License**
 ---------
 
 This project is licensed under the MIT License.
-
-**Contact Information**
---------------------
-
-For any questions or feedback regarding this project, please contact [your name] at [your email address].
-
-I hope this helps! Let me know if you need any further assistance.
